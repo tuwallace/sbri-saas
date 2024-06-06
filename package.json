@@ -1,0 +1,20 @@
+{
+  "name": "sbri-saas",
+  "version": "1.0.0",
+  "description": "SBRI SaaS POC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Taft Wallace",
+  "license": "ISC",
+  "dependencies": {
+    "aes256": "^1.1.0",
+    "body-parse": "^0.1.0",
+    "express": "^4.19.2",
+    "fabric-ca-client": "^2.2.19",
+    "fabric-network": "^2.2.19",
+    "multer": "^1.4.5-lts.1",
+    "uuid": "^9.0.1"
+  }
+}

@@ -12,6 +12,8 @@
 # next.js
 /.next/
 /out/
+/wallet
+/upload
 
 # production
 /build
